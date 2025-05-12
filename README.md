@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/pandu04/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/pandu04/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/pandu04/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pandu04/leetcode/tree/master/2058-concatenation-of-array) |
@@ -117,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/pandu04/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/pandu04/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
