@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pandu04/leetcode/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/pandu04/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pandu04/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/pandu04/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pandu04/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/pandu04/leetcode/tree/master/0217-contains-duplicate) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pandu04/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/pandu04/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
