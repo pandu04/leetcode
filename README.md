@@ -48,4 +48,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/pandu04/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pandu04/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/pandu04/leetcode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/pandu04/leetcode/tree/master/2868-continuous-subarrays) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/pandu04/leetcode/tree/master/2868-continuous-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/pandu04/leetcode/tree/master/2868-continuous-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/pandu04/leetcode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/pandu04/leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/pandu04/leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
