@@ -26,8 +26,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pandu04/leetcode/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/pandu04/leetcode/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pandu04/leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/pandu04/leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/pandu04/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
