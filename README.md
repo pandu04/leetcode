@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pandu04/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/pandu04/leetcode/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pandu04/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/pandu04/leetcode/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -72,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/pandu04/leetcode/tree/master/2868-continuous-subarrays) |
+## Hash Table
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pandu04/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Sorting
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pandu04/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Simulation
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/pandu04/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
