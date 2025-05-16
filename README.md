@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/pandu04/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pandu04/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/pandu04/leetcode/tree/master/1013-fibonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/pandu04/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pandu04/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Memoization
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pandu04/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/pandu04/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pandu04/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/pandu04/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1580-shuffle-the-array](https://github.com/pandu04/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/pandu04/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/pandu04/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/pandu04/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2048-build-array-from-permutation](https://github.com/pandu04/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pandu04/leetcode/tree/master/2058-concatenation-of-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pandu04/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
