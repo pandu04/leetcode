@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pandu04/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pandu04/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/pandu04/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandu04/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1580-shuffle-the-array](https://github.com/pandu04/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/pandu04/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/pandu04/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pandu04/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandu04/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/pandu04/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/pandu04/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandu04/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pandu04/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/pandu04/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/pandu04/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Stack
