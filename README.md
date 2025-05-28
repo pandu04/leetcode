@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/pandu04/leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/pandu04/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pandu04/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2050-count-good-numbers](https://github.com/pandu04/leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/pandu04/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pandu04/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/pandu04/leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/pandu04/leetcode/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
 | ------- |
