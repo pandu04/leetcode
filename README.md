@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/pandu04/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2868-continuous-subarrays](https://github.com/pandu04/leetcode/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/pandu04/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/pandu04/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/pandu04/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/pandu04/leetcode/tree/master/0861-flipping-an-image) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/pandu04/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
